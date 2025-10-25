@@ -25,7 +25,7 @@ a) **View and evaluate** the Software for employment screening, technical assess
 
 b) **Use and modify** the Software for Closed Source Use in commercial or proprietary applications, subject to the restrictions below.
 
-c) **Distribute** the Software in compiled or binary form as part of a closed source commercial product.
+c) **Distribute** the Software in compiled or binary form as part of a closed source commercial product. 
 
 ### 3. Restrictions
 
