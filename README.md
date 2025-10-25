@@ -84,10 +84,6 @@ Copyright (c) 2025 Your Name
 See [LICENSE](LICENSE) for full terms.
 ```
 
-### Step 3: Add to Repository Metadata
-
-On GitHub, you can add "CSPL-1.0" as a custom license identifier in your repository settings.
-
 ## Comparison with Other Licenses
 
 | License | Open Source Use | Commercial Use | Career Signaling | Portfolio Friendly |
@@ -131,7 +127,7 @@ Created by AJ Gonzalez to address the tension between portfolio development and 
 
 ## Related Resources
 
-- [Full CSPL License Text](CSPL-LICENSE.txt)
+- [Full CSPL License Text](cspl-license.txt)
 - [License Comparison Chart](#comparison-with-other-licenses)
 
 ---
